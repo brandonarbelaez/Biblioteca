@@ -1,0 +1,6 @@
+com/ceiba/biblioteca/ResultadoPrestarTest.java
+ com.ceiba.biblioteca.ResultadoPrestarTest
+com/ceiba/biblioteca/SolicitudPrestarLibroTest.java
+ com.ceiba.biblioteca.SolicitudPrestarLibroTest
+com/ceiba/biblioteca/PrestamoTests.java
+ com.ceiba.biblioteca.PrestamoTests
